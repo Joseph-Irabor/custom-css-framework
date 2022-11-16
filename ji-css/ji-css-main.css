@@ -1,0 +1,36 @@
+/* Small devices 
+@media(min-width:576px){}
+medium devices 
+@media(min-width:768px){}
+
+Large devices 
+@media(min-width:992px){}
+
+
+extra-Large devices 
+@media(min-width:992px){} */
+
+:root{--bg-color-generic:rgb(151, 66, 66);}.ji-container-lg{width: 100%; margin:auto;  background-color: var(--bg-color-generic);} .ji-container-md{width: 70%; margin:auto;  background-color: var(--bg-color-generic);}.ji-container-sm{width: 50%; margin:auto;  background-color: var(--bg-color-generic);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

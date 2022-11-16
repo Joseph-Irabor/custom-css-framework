@@ -2,13 +2,21 @@ ________
 CONTENTS
 ________
 *******************************
-NOTE: Use attribute selectors
+NOTE: Use attribute selectors all div and classes with start with a ji followed by the hyphen (ji-btn-dark)
 *******************************
-Containers
---Centered container
-
+Containers All contaianers have h1 tag in them)
+-large----ji-container-lg
+-medium----ji-container-md
+-small----ji-container-sm
 
 BUTTON
 -Flat button (class & id -flat-btn)
 -Shadow button (class & id -shadow-btn)
 -Animated button-1 (class & id  -animate-btn-1)
+
+Navigation bar
+
+Form controls
+
+
+
